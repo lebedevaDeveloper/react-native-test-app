@@ -31,3 +31,5 @@ react-native run-android
 ```
 
 
+
+![Alt Text](https://media4.giphy.com/media/r0IbmBJtfwH1BV1HHb/giphy.gif)
