@@ -5,7 +5,7 @@ Test application for react-native platrofm. Basically it's an application for se
 ## Technologies
 
 - Language: JavaScript
-- Storage: react-native-sql-storage
+- Storage: react-native-sqlite-storage
 - Networking: axios
 - Architecture: redux with axios middleware
 - Navigation: react-native-navigation
